@@ -4,6 +4,8 @@ footer
 	background-color: coral;
 	height:10%;
 	width:100%;
+	padding:1%;
+	margin-top:2%;
 }
 .sidebar
 {
@@ -29,3 +31,4 @@ footer
 	height:50px;
 	border-radius:50%;
 }
+
