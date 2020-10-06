@@ -1,0 +1,37 @@
+footer
+{
+	text-align: center;
+	background-color: coral;
+	height:10%;
+	width:100%;
+	padding:1%;
+	margin-top:2%;
+	position:absolute;
+	bottom:0;
+}
+.sidebar
+{
+	float:left;
+	width:20%;
+	padding : opx;	
+}
+.intro
+{
+	text-align:center;
+}
+.image
+{
+	margin-left:auto;
+	margin-righ:auto;
+}
+.notes
+{
+  height:80%;
+}
+.navlogo
+{
+	height:50px;
+	border-radius:50%;
+}
+
+
