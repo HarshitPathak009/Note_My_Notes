@@ -13,7 +13,8 @@ footer
 {
 	float:left;
 	width:20%;
-	padding : opx;	
+	padding : opx;
+	height:100%;
 }
 .intro
 {
@@ -33,5 +34,3 @@ footer
 	height:50px;
 	border-radius:50%;
 }
-
-
