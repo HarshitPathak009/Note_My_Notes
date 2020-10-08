@@ -1,2 +1,2 @@
 # Note_My_Notes
-A website to share notes
+Trial for something big.
