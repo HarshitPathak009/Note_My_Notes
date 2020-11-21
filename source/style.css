@@ -13,8 +13,7 @@ footer
 {
 	float:left;
 	width:20%;
-	padding : opx;
-	height:100%;
+	padding : opx;	
 }
 .intro
 {
@@ -27,10 +26,13 @@ footer
 }
 .notes
 {
-  height:80%;
+  position:absolute;
+  left: 20%;
 }
 .navlogo
 {
 	height:50px;
 	border-radius:50%;
 }
+
+
