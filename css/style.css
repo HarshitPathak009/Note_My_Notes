@@ -6,7 +6,7 @@ footer
 	width:100%;
 	padding:1%;
 	margin-top:2%;
-	position:absolute;
+	position:relative;
 	bottom:0;
 }
 .sidebar
@@ -35,7 +35,6 @@ footer
 	border-radius:50%;
 }
 
-// for heading section
 
 .headpart 
 {
